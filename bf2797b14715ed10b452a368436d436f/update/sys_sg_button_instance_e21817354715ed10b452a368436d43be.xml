@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Scrum release)">ee1817354715ed10b452a368436d43bd</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Scrum release)</name>
+        <order/>
+        <parent>ea1817354715ed10b452a368436d43bc</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>jbelter</sys_created_by>
+        <sys_created_on>2023-03-01 17:37:23</sys_created_on>
+        <sys_id>e21817354715ed10b452a368436d43be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Scrum release)</sys_name>
+        <sys_package display_value="PDI Backup Test" source="bf2797b14715ed10b452a368436d436f">bf2797b14715ed10b452a368436d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PDI Backup Test">bf2797b14715ed10b452a368436d436f</sys_scope>
+        <sys_update_name>sys_sg_button_instance_e21817354715ed10b452a368436d43be</sys_update_name>
+        <sys_updated_by>jbelter</sys_updated_by>
+        <sys_updated_on>2023-03-01 17:37:23</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=e21817354715ed10b452a368436d43be"/>
+</record_update>

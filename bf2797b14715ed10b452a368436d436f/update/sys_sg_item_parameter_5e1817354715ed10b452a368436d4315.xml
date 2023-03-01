@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Product assigned_to</name>
+        <parent>561817354715ed10b452a368436d4314</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>jbelter</sys_created_by>
+        <sys_created_on>2023-03-01 17:37:22</sys_created_on>
+        <sys_id>5e1817354715ed10b452a368436d4315</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Product assigned_to</sys_name>
+        <sys_package display_value="PDI Backup Test" source="bf2797b14715ed10b452a368436d436f">bf2797b14715ed10b452a368436d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PDI Backup Test">bf2797b14715ed10b452a368436d436f</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_5e1817354715ed10b452a368436d4315</sys_update_name>
+        <sys_updated_by>jbelter</sys_updated_by>
+        <sys_updated_on>2023-03-01 17:37:22</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>
