@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Sprint)">561817354715ed10b452a368436d4363</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Sprint)</name>
+        <order/>
+        <parent>521817354715ed10b452a368436d4362</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>jbelter</sys_created_by>
+        <sys_created_on>2023-03-01 17:37:22</sys_created_on>
+        <sys_id>5a1817354715ed10b452a368436d4363</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Sprint)</sys_name>
+        <sys_package display_value="PDI Backup Test" source="bf2797b14715ed10b452a368436d436f">bf2797b14715ed10b452a368436d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PDI Backup Test">bf2797b14715ed10b452a368436d436f</sys_scope>
+        <sys_update_name>sys_sg_button_instance_5a1817354715ed10b452a368436d4363</sys_update_name>
+        <sys_updated_by>jbelter</sys_updated_by>
+        <sys_updated_on>2023-03-01 17:37:22</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=5a1817354715ed10b452a368436d4363"/>
+</record_update>

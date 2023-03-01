@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>rm_release_sdlc</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="SDLC release Form Screen">f318d7354715ed10b452a368436d43d7</embedded_screen>
+        <item_view/>
+        <name>SDLC release master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>jbelter</sys_created_by>
+        <sys_created_on>2023-03-01 17:37:28</sys_created_on>
+        <sys_id>fb18d7354715ed10b452a368436d43d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SDLC release master_item</sys_name>
+        <sys_package display_value="PDI Backup Test" source="bf2797b14715ed10b452a368436d436f">bf2797b14715ed10b452a368436d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PDI Backup Test">bf2797b14715ed10b452a368436d436f</sys_scope>
+        <sys_update_name>sys_sg_master_item_fb18d7354715ed10b452a368436d43d8</sys_update_name>
+        <sys_updated_by>jbelter</sys_updated_by>
+        <sys_updated_on>2023-03-01 17:37:28</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="SDLC release List Screen View Config">ff18d7354715ed10b452a368436d43a1</view_config>
+    </sys_sg_master_item>
+</record_update>
